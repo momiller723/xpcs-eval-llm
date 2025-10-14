@@ -1,8 +1,8 @@
-XPCS Hypothesis Evaluator LLM
-• Target Audience: Users
-• Context & Sources
-– Textbooks on XPCS
-– Data handbook 
+# XPCS Hypothesis Evaluator LLM  
+• Target Audience: Users  
+• Context & Sources  
+– Textbooks on XPCS  
+– Data handbook   
 - Sources present in the Annual Review of Materials Research (2018) citations
 • Key Capabilities
 – Assist users in formulating and refining scientific hypotheses for XPCS experiments
