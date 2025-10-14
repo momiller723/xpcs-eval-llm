@@ -1,7 +1,7 @@
 # XPCS Hypothesis Evaluator LLM  
 
 ## Target Audience: 
-* Users
+* Beamline visiting users
   
 ## Context & Sources  
 * Textbooks on XPCS  
