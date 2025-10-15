@@ -17,4 +17,4 @@
 * Reduce back-and-forth with beamline staff by providing upfront guidance to users
 
 ## Overall Architecture of the Desired System
-![Hypothesis-Driven Physical Science via LLM (XPCS Example)](assets/llm-xpcs-example.png)
+![Hypothesis-Driven Physical Science via LLM (XPCS Example)](assets/llm-xpcs-example-slide.png)
