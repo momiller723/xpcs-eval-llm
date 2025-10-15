@@ -18,3 +18,11 @@
 
 ## Overall Architecture of the Desired System
 ![Hypothesis-Driven Physical Science via LLM (XPCS Example)](assets/llm-xpcs-example-slide.png)
+
+## Tech Stack Plan
+* Frontend: Chainlit
+* Backend: FastAPI + Python
+* Database: PostgreSQL, Qdrant
+* RAG: LangChain, SciBERT
+* LLM: Argo or AskSage
+* Other: Docker or conda env
